@@ -9,10 +9,6 @@
 
 ---
 
-## 🔗 Production URL
-**Live Workspace:** [luma-ai-suite.vercel.app](https://github.com/) *(Update with your actual link)*
-
----
 
 ## ⚡ Core Engine Capabilities
 
