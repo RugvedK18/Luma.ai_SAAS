@@ -35,18 +35,3 @@ The application implements a decoupled, type-safe architecture prioritizing inst
 
 ---
 
-## 📂 System Topology
-
-A modular layout designed for clear separation of concerns, optimized for clean tree-shaking and maintainability.
-
-```pascal
-src/
-├── app/                  # File-based routing and layout definitions
-│   ├── api/              # Serverless endpoints for AI generation pipelines
-│   └── page.tsx          # Main workspace layout
-├── components/           # Industrial UI modules (Canvas, Styler Controls)
-│   ├── ui/               # Atomized primitives (Buttons, Inputs, Triggers)
-│   └── workspace/        # Composite workflow layouts
-├── hooks/                # Custom composition hooks for state tracking
-├── lib/                  # Type-safe configurations and utility functions
-└── types/                # Strict schema declarations for API models
